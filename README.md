@@ -1,25 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8"/>
-    <title>Testing</title>
-    <style type="text/css">
-        a:link 
-        {
-            color:green;
-        }
-        a:visited
-        {
-            color: silver;
-        }
-        a:hover 
-        {
-            color:blue;
-            background-color: none;
-            text-decoration: none;
-        }
-    </style>
-</head>
 <body>
     <a href="http://google.com" target="_blank" name="google">
         Go to google link
